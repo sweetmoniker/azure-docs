@@ -20,7 +20,7 @@ ms.custom: mvc
 ---
 # Create a function in Azure that is triggered by a timer
 
-Learn how to use Azure Functions to create a function that runs based a schedule that you define.
+Learn how to use Azure Functions to create a function that runs based on a schedule that you define.
 
 ![Create function app in the Azure portal](./media/functions-create-scheduled-function/function-app-in-portal-editor.png)
 
